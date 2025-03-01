@@ -117,7 +117,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a AGPL License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
