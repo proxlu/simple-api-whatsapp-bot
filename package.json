@@ -1,8 +1,8 @@
 {
-  "name": "whatsapp-bot",
+  "name": "simple-api-whatsapp-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
