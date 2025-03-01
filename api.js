@@ -1,3 +1,5 @@
+// api.js - by:proxly
+
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const express = require('express');
 const qrcode = require('qrcode-terminal');
