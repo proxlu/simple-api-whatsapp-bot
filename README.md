@@ -20,7 +20,7 @@ Este projeto é um bot para WhatsApp que utiliza a biblioteca `whatsapp-web.js` 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/proxlu/simple-api-whatsapp.git
+   git clone https://github.com/proxlu/simple-api-whatsapp-bot.git
    cd whatsapp-bot-webhook
    ```
 
